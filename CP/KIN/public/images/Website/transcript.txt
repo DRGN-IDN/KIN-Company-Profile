@@ -1,0 +1,85 @@
+(2021-09-02T03:10:30.242Z) Mustafa: Mustafa has joined the chat.
+
+(2021-09-02T03:10:34.806Z) System: Hello Mustafa - thank you for contacting us. Please give us a moment while we connect you to one of our service specialists!
+
+(2021-09-02T03:10:46.775Z) System: Fan Advocate has joined the chat.
+
+(2021-09-02T03:11:12.599Z) Mustafa: Hi,
+
+(2021-09-02T03:11:13.789Z) System: Good evening  My name is  Eve. how can I help you today?
+
+(2021-09-02T03:12:33.326Z) Mustafa: Hi Eve, here is my story, i have two packages that should i got right now but i only get one package
+
+(2021-09-02T03:12:44.469Z) Mustafa: Can you track my order ?
+
+(2021-09-02T03:12:52.025Z) System: Not a problem! I'll be more than happy to help you with this! To be sure I have the correct information, do you mind providing your name, email and phone number please?
+
+(2021-09-02T03:13:21.641Z) Mustafa: Achmad Mustafa Kemal
+
+(2021-09-02T03:13:28.105Z) Mustafa: achmad.kemal@outlook.com
+
+(2021-09-02T03:13:49.124Z) System: Could you please hold for a just few moments while I gather that information for you? I really appreciate your patience.
+
+(2021-09-02T03:13:49.423Z) Mustafa: 082143391151
+
+(2021-09-02T03:14:14.868Z) Mustafa: for name, i put my brother name (Achmad Flatyno Rabbany)
+
+(2021-09-02T03:14:34.347Z) Mustafa: it said that my package still in Belgium for depature
+
+(2021-09-02T03:15:01.965Z) System: one moment pls
+
+(2021-09-02T03:17:52.126Z) Mustafa: okay i will wait
+
+(2021-09-02T03:17:55.027Z) Mustafa: :)
+
+(2021-09-02T03:17:57.279Z) System: tnx
+
+(2021-09-02T03:21:56.240Z) System: can i have the item number that  was missing pls?
+
+(2021-09-02T03:23:28.899Z) Mustafa: do you mean order number?
+
+(2021-09-02T03:23:51.556Z) System: the item that is missing
+
+(2021-09-02T03:24:13.319Z) Mustafa: what i shoould now?
+
+(2021-09-02T03:24:37.901Z) Mustafa: is there any solution that item can arrived to me?
+
+(2021-09-02T03:25:18.788Z) System: Promise Delivery Date:	Tuesday, Aug 3, 2021
+
+(2021-09-02T03:25:32.611Z) System: we consider this  lost package
+
+(2021-09-02T03:25:55.952Z) Mustafa: Here is the tracking number PS0004270700109102
+
+(2021-09-02T03:27:50.917Z) Mustafa: Here is my order number : 451-0680-3596
+
+(2021-09-02T03:27:55.511Z) System: they are all in stock
+
+(2021-09-02T03:28:04.894Z) System: i can process to reship is for you
+
+(2021-09-02T03:28:17.397Z) System: can you provide me your shipping address pls
+
+(2021-09-02T03:28:21.049Z) Mustafa: that good idea
+
+(2021-09-02T03:28:49.861Z) Mustafa: Jalan Proklamasi Perumahan Grand Gresik Regency Kavling 4-6 Gresik, East Java 61111 ID
+
+(2021-09-02T03:30:04.955Z) System: ok one moment pls
+
+(2021-09-02T03:30:07.622Z) Mustafa: I just my second package (Men's Tampa Bay Buccaneers Tom Brady Nike Red Game Jersey (size M) and Newborn & Infant Baltimore Ravens Lamar Jackson Nike Purple Romper Jersey (size: 3-6) to reship again
+
+(2021-09-02T03:30:52.865Z) Mustafa: that two item are missing in the second package
+
+(2021-09-02T03:30:57.181Z) Mustafa: okay cool
+
+(2021-09-02T03:32:11.851Z) System: tnx
+
+(2021-09-02T03:33:51.452Z) System: Men's Tampa Bay Buccaneers Tom Brady Nike Red Game Jersey (size M) and Newborn & Infant Baltimore Ravens Lamar Jackson Nike Purple Romper Jersey (size: 3-6) to reship again( i have process the request for you)
+
+(2021-09-02T03:33:57.946Z) System: is there anything else?
+
+(2021-09-02T03:35:26.606Z) Mustafa: No but when i can get another tracking number?
+
+(2021-09-02T03:36:03.869Z) System: Promise Ship Date:	Monday, Sep 6, 2021
+Promise Delivery Date:	Monday, Sep 20, 2021
+
+(2021-09-02T03:36:18.717Z) System: you should be receiving a email confirmation about it
+
