@@ -1,0 +1,142 @@
+/* Downloaded Font */
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+/* For NavBar Font */
+.nav-link{
+    font-family: "Roboto", sans-serif;
+    color: White !important;
+  }
+/* Navigation bar Background Color */
+.navbar-bg{
+    background-color: #35518e;
+}
+
+/* Container H Section */
+.container-home{
+  background-color: #d9d9d9;
+}
+
+.font-title{
+  font-family: "Roboto", sans-serif;
+  color: #35518e;
+}
+
+.font-paragraph{
+  font-size: 20px;
+  font-family: "Roboto", sans-serif;
+}
+
+.form-container {
+  padding-top: 20px;
+  padding-right: 30px;
+  padding-bottom: 80px;
+  padding-left: 50px;
+}
+
+.responsive {
+  width: 100%;
+  height: auto;
+}
+
+/* Container H1 Section */
+.container-h1{
+  background-color: #F8F8FF;
+}
+
+.font-title1{
+  font-family: "Roboto", sans-serif;
+  color: #35518e;
+  text-align: center;
+}
+
+.font-paragraph1{
+  font-size: 20px;
+  font-family: "Roboto", sans-serif;
+}
+
+.form-container2 {
+  padding-top: 20px;
+  padding-right: 100px;
+  padding-bottom: 80px;
+  padding-left: 10px;
+}
+
+.font-card{
+  font-family: "Roboto", sans-serif;
+}
+
+/* Footer */
+.container-footer{
+  background-color: #35518e;
+}
+
+.font-list{
+  font-family: "Roboto", sans-serif;
+}
+
+.font-footer-title{
+  font-family: "Roboto", sans-serif;
+  color: #F8F8FF;
+}
+
+.font-footer{
+  font-family: "Roboto", sans-serif;
+  color: #F8F8FF;
+  font-size: 18px;
+  text-align: center;
+}
+
+.font-paragraphfooter{
+  font-size: 18px;
+  font-family: "Roboto", sans-serif;
+  color: #F8F8FF;
+}
+
+.form-container3{
+  padding-top: 1px;
+  padding-right: 30px;
+  padding-bottom: 80px;
+  padding-left: 10px;
+}
+
+
+.ftitle {
+  color: #F8F8FF;
+  font-family: "Roboto", sans-serif;
+  text-align: center;
+}
+
+
+.ftitle1 {
+  color: #F8F8FF;
+  font-family: "Roboto", sans-serif;
+  text-align: center;
+  font-size: 15px;
+}
+
+.form-container-card {
+  padding-top: 5px;
+  padding-right: 30px;
+  padding-bottom: 80px;
+  padding-left: 40px;
+}
+
+.font-card1{
+  font-family: "Roboto", sans-serif;
+}
+
+
+.font-paragraph2{
+  font-size: 20px;
+  font-family: "Roboto", sans-serif;
+  color: black;
+}
+
+.font-paragraph3{
+  font-size: 15px;
+  font-family: "Roboto", sans-serif;
+  color: black;
+  text-align: left;
+}
